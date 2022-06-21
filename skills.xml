@@ -1,2 +1,15 @@
 <?xml version="1.0"?>
-<skills>git bush, git hub, JSON XML, API, HTTP, Charles Fiddler, SQL, Postgres, Jmetr, Scrum</skills>
+<skills>
+  <skill>gitbush</skill>
+  <skill>github</skill>
+  <skill>JSON</skill>
+  <skill>XML</skill>
+  <skill>API</skill>
+  <skill>HTTP</skill>
+  <skill>Charles</skill>
+  <skill>Fiddler</skill>
+  <skill>SQL</skill>
+  <skill>Postgres</skill>
+  <skill>Jmetr</skill>
+  <skill>Scrum</skill>
+ </skills>
