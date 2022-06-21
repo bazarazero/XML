@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <skills>
-  <skill>gitbush</skill>
-  <skill>github</skill>
-  <skill>JSON</skill>
-  <skill>XML</skill>
-  <skill>API</skill>
-  <skill>HTTP</skill>
-  <skill>Charles</skill>
-  <skill>Fiddler</skill>
-  <skill>SQL</skill>
-  <skill>Postgres</skill>
-  <skill>Jmetr</skill>
-  <skill>Scrum</skill>
+    <skill>gitbush</skill>
+    <skill>github</skill>
+    <skill>JSON</skill>
+    <skill>XML</skill>
+    <skill>API</skill>
+    <skill>HTTP</skill>
+    <skill>Charles</skill>
+    <skill>Fiddler</skill>
+    <skill>SQL</skill>
+    <skill>Postgres</skill>
+    <skill>Jmetr</skill>
+    <skill>Scrum</skill>
  </skills>
