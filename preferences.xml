@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
-<Предпочтения>
-	<любимый_фильм>Большой куш</любимый_фильм>
-	<любимый_сериал>Теория большого взрыва</любимый_сериал>
-	<любимая_еда>Креветки</любимая_еда>
-	<любимое_время_года>Лето</любимое_время_года>
-	<страна_которую_хотели_бы_посетить>Япония</страна_которую_хотели_бы_посетить>
-</Предпочтения>
+<preferences>
+	<favorite_film>Большой куш</favorite_film>
+	<favorite_serial>Теория большого взрыва</favorite_serial>
+	<favorite_food>Креветки</favorite_food>
+	<favorite season>Лето</favorite season>
+	<country_would_like_to_visit >Япония</country_would_like_to_visit>
+</preferences>
